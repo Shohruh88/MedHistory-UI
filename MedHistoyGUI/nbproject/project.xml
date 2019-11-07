@@ -6,7 +6,6 @@
             <name>MedHistoyGUI</name>
             <source-roots>
                 <root id="src.dir"/>
-                <root id="src.Icons.dir"/>
             </source-roots>
             <test-roots>
                 <root id="test.src.dir"/>
